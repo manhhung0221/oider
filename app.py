@@ -1,6 +1,7 @@
 import streamlit as st
 from login import login_user, logout_user  # Giả sử đây là nơi bạn định nghĩa các hàm login_user và logout_user
-from app_st.app_OI import OI
+from app_st.app_OI_reTicker import OI
+
 # Kiểm tra xem người dùng đã đăng nhập hay chưa
 def main():
     # Kiểm tra nếu người dùng đã đăng nhập, chuyển hướng họ đến ứng dụng
