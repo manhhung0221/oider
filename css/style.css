@@ -1,0 +1,17 @@
+/* style.css */
+
+/* Thay đổi màu nền của khu vực nội dung chính */
+.css-1l02zno {
+    background-color: #fafafa;
+}
+
+/* Tùy chỉnh kiểu cho hộp nhập liệu */
+.stTextInput > div > div > input {
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+
+
+

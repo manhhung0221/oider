@@ -1,0 +1,35 @@
+/* File style.css */
+.df-style {
+    font-family: 'Arial', sans-serif;
+    border-collapse: separate;
+    border-spacing: 0;
+    width: 100%;
+    margin: 10px 0;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+.df-style td, .df-style th {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+.df-style tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+.df-style tr:hover {
+    background-color: #ddd;
+}
+.df-style th {
+    background-color: #1504aa;
+    color: white;
+    text-align: center;
+    padding: 12px;
+}
+.df-style td:nth-of-type(1) { 
+    width: 120px;
+}
+.df-style td:nth-of-type(2) { 
+    width: 10px;
+}
+

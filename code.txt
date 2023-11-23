@@ -1,0 +1,3 @@
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
+.dashboard/Scripts/activate
+sk-F0d9HsfnfibzT4O3622aT3BlbkFJqfWfPYw6TUB6w50vcD2JS
